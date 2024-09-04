@@ -7,3 +7,4 @@
 - Cross server cookie/shard syncing
 - Cookie level system
 ### THIS IS A WORK IN PROGRESS
+### Join the Discord for news
