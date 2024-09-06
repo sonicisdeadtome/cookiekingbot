@@ -11,3 +11,4 @@
 - Custom Cookies
 ### THIS IS A WORK IN PROGRESS
 ### Join the Discord for news
+### This project is open source non-profit
