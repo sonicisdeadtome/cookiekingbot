@@ -2,7 +2,7 @@
 **Planned Features**
 - Gacha System
 - Shard currency system
-- Cookei rarity system
+- Cookie rarity system
 - Variety of collectable Cookies
 - Cross server cookie/shard syncing
 - Cookie level system
